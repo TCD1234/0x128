@@ -1,15 +1,5 @@
 {
-  "launcher": {
-    "version": "1.2",
-    "force_update": true
-  },
-  "game": {
-    "id": "Forge 1.20.1",
-    "mc_version": "1.20.1",
-    "type": "forge"
-  },
-  "network": {
-    "offline_mode": false,
-    "status": "online"
-  }
+  "launcher": {"version": "1.0", "force_update": false},
+  "game": {"id": "Forge 1.20.1"},
+  "network": {"offline_mode": false, "status": "online"}
 }
