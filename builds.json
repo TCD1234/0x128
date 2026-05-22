@@ -15,9 +15,10 @@
       "changelog": "aboba :>",
       "javaVersion": 21,
       "minecraft": {
-        "version": "1.21.1",
-        "loader": "neoforge",
-        "loaderVersion": "21.1.119"
+          "version": "1.21.1",
+          "loader": "neoforge",
+          "loaderVersion": "21.1.119",
+          "loaderJson": "https://github.com/TCD1234/0x128/releases/download/mine-vers/NeoForge.1.21.1.json"
       },
       "mods": {
         "url": "",
@@ -39,9 +40,10 @@
       "changelog": "aboba? 0_0",
       "javaVersion": 21,
       "minecraft": {
-        "version": "1.21.1",
-        "loader": "neoforge",
-        "loaderVersion": "21.1.119"
+          "version": "1.21.1",
+          "loader": "neoforge",
+          "loaderVersion": "21.1.119",
+          "loaderJson": "https://github.com/TCD1234/0x128/releases/download/mine-vers/NeoForge.1.21.1.json"
       },
       "mods": {
         "url": "https://github.com/TCD1234/0x128/releases/download/mods-1.21.1-neoforge-testing/mods-1.21.1-neoforge.tar.zst",
