@@ -5,8 +5,8 @@
     {
       "version": "1.0.0",
       "required": false,
-      "url": "1",
-      "sha256": "1",
+      "url": "",
+      "sha256": "",
       "releaseDate": "2026-05-22",
       "changelog": "Первый релиз"
     }
