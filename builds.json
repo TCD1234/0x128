@@ -1,0 +1,54 @@
+{
+  "server": {
+    "name": "Сервер",
+    "ip": "play.example.com"
+  },
+  "minLauncherVersion": "1.0.0",
+  "builds": [
+    {
+      "id": "ultra",
+      "name": "Ультра графика",
+      "description": "Шейдеры, текстуры 128x, полный набор модов",
+      "version": "1.0.0",
+      "required": false,
+      "deprecated": false,
+      "changelog": "aboba :>",
+      "javaVersion": 21,
+      "minecraft": {
+        "version": "1.21.1",
+        "loader": "neoforge",
+        "loaderVersion": "21.1.119"
+      },
+      "mods": {
+        "url": "",
+        "sha256": ""
+      },
+      "overrides": {
+        "url": "",
+        "sha256": ""
+      },
+      "javaArgs": "-XX:+UseG1GC -XX:+ZGenerational"
+    },
+    {
+      "id": "lite",
+      "name": "Легкая сборка",
+      "description": "Минимум модов, без шейдеров, для слабых ПК",
+      "version": "1.0.0",
+      "required": false,
+      "deprecated": false,
+      "changelog": "aboba? 0_0",
+      "javaVersion": 21,
+      "minecraft": {
+        "version": "1.21.1",
+        "loader": "neoforge",
+        "loaderVersion": "21.1.119"
+      },
+      "mods": {
+        "url": "",
+        "sha256": ""
+      },
+      "overrides": null,
+      "javaArgs": null
+    }
+  ]
+}
